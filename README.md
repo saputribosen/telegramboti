@@ -1,1 +1,1 @@
-bash -c "$(wget -qO - 'https://raw.githubusercontent.com/aryobrokollyy/telegramboti/master/setup.sh')"
+bash -c "$(wget -qO - 'https://raw.githubusercontent.com/saputribosen/telegramboti/refs/heads/main/setup.sh')"
