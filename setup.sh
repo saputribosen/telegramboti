@@ -13,7 +13,7 @@ clear
     echo "INSTALL SUCCESSFULLY ;)"
     echo ""
     sleep 3
-    echo "clear"
+    clear
     echo "Youtube : ARYO BROKOLLY"
     echo ""
     echo ""
