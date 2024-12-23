@@ -22,7 +22,7 @@ clear
 download_files()
 {
     	clear
-  	echo "Downloading files from repo hilink mak cling..."
+  	echo "Downloading files from repo.."
    	wget -O $MODEL/telegram_config.lua https://raw.githubusercontent.com/aryobrokollyyy/Telegrambuset/main/telegram_config.lua
  	wget -O $DIR/telegram https://raw.githubusercontent.com/aryobrokollyy/Telegrambuset/main/usr/bin/telegram && chmod +x $DIR/telegram
  	wget -O $CONF/telegram https://raw.githubusercontent.com/aryobrokollyy/Telegrambuset/main/etc/config/telegram
